@@ -27,7 +27,7 @@ def read(*rnames):
 
 setup(
     name='zope.outputchecker',
-    version='1.0.0',
+    version='1.0.1.dev0',
     url='http://pypi.python.org/pypi/zope.outputchecker',
     license='ZPL 2.1',
     description='A set of output checkers for doctests.',
